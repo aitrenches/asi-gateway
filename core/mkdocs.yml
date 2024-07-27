@@ -1,6 +1,5 @@
 site_name: AGIX/ASI Payment Gateway For SaaS Products
-# site_url: https://github.com/aitrenches/HFDLSP
-# site_url: https://hfdlsp.trenches.ai/
+site_url: https://aitrenches.github.io/asi-gateway
 theme:
   name: material
   features:
