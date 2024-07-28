@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0f0f0"/>
+  <text x="200" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Value Locked in DeFi Sectors</text>
+  
+  <g transform="translate(200, 200)">
+    <!-- Lending -->
+    <path d="M0 0 L180 0 A180 180 0 0 1 127.28 127.28 Z" fill="#4CAF50"/>
+    <text x="100" y="-70" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Lending (35%)</text>
+    
+    <!-- DEXs -->
+    <path d="M0 0 L127.28 127.28 A180 180 0 0 1 0 180 Z" fill="#2196F3"/>
+    <text x="70" y="100" font-family="Arial" font-size="14" text-anchor="middle" fill="white">DEXs (25%)</text>
+    
+    <!-- Derivatives -->
+    <path d="M0 0 L0 180 A180 180 0 0 1 -127.28 127.28 Z" fill="#FFC107"/>
+    <text x="-70" y="100" font-family="Arial" font-size="14" text-anchor="middle">Derivatives (20%)</text>
+    
+    <!-- Yield Farming -->
+    <path d="M0 0 L-127.28 127.28 A180 180 0 0 1 -180 0 Z" fill="#9C27B0"/>
+    <text x="-100" y="-70" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Yield Farming (15%)</text>
+    
+    <!-- Others -->
+    <path d="M0 0 L-180 0 A180 180 0 0 1 -127.28 -127.28 Z" fill="#FF5722"/>
+    <text x="-70" y="-100" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Others (5%)</text>
+  </g>
+</svg>
