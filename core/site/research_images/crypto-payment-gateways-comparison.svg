@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f0f0f0"/>
+  <text x="400" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">Comparison of Existing Crypto Payment Gateways</text>
+  
+  <g transform="translate(50, 80)">
+    <rect width="150" height="280" fill="#e6f2ff" stroke="#000000"/>
+    <text x="75" y="30" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">BitPay</text>
+    <text x="75" y="60" font-family="Arial" font-size="12" text-anchor="middle">Multiple currencies</text>
+    <text x="75" y="90" font-family="Arial" font-size="12" text-anchor="middle">Instant fiat conversion</text>
+    <text x="75" y="120" font-family="Arial" font-size="12" text-anchor="middle">E-commerce plugins</text>
+  </g>
+  
+  <g transform="translate(230, 80)">
+    <rect width="150" height="280" fill="#fff2e6" stroke="#000000"/>
+    <text x="75" y="30" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Coinbase Commerce</text>
+    <text x="75" y="60" font-family="Arial" font-size="12" text-anchor="middle">Easy integration</text>
+    <text x="75" y="90" font-family="Arial" font-size="12" text-anchor="middle">Coinbase ecosystem</text>
+    <text x="75" y="120" font-family="Arial" font-size="12" text-anchor="middle">User-friendly interface</text>
+  </g>
+  
+  <g transform="translate(410, 80)">
+    <rect width="150" height="280" fill="#e6ffe6" stroke="#000000"/>
+    <text x="75" y="30" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">CoinPayments</text>
+    <text x="75" y="60" font-family="Arial" font-size="12" text-anchor="middle">Wide range of coins</text>
+    <text x="75" y="90" font-family="Arial" font-size="12" text-anchor="middle">Various plugins</text>
+    <text x="75" y="120" font-family="Arial" font-size="12" text-anchor="middle">Multi-coin wallet</text>
+  </g>
+  
+  <g transform="translate(590, 80)">
+    <rect width="150" height="280" fill="#ffe6e6" stroke="#000000"/>
+    <text x="75" y="30" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">BTCPay Server</text>
+    <text x="75" y="60" font-family="Arial" font-size="12" text-anchor="middle">Open-source</text>
+    <text x="75" y="90" font-family="Arial" font-size="12" text-anchor="middle">Self-hosted</text>
+    <text x="75" y="120" font-family="Arial" font-size="12" text-anchor="middle">High customization</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Key Trends Shaping Crypto Payments</text>
+  
+  <g transform="translate(50, 70)">
+    <rect width="230" height="100" fill="#4CAF50" rx="10"/>
+    <text x="115" y="55" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Increasing Adoption of</text>
+    <text x="115" y="75" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Cryptocurrencies for Payments</text>
+  </g>
+  
+  <g transform="translate(320, 70)">
+    <rect width="230" height="100" fill="#2196F3" rx="10"/>
+    <text x="115" y="55" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Growing Interest in</text>
+    <text x="115" y="75" font-family="Arial" font-size="14" text-anchor="middle" fill="white">DeFi Solutions</text>
+  </g>
+  
+  <g transform="translate(50, 210)">
+    <rect width="230" height="100" fill="#FFC107" rx="10"/>
+    <text x="115" y="55" font-family="Arial" font-size="14" text-anchor="middle">Rising Demand for Cross-Border</text>
+    <text x="115" y="75" font-family="Arial" font-size="14" text-anchor="middle">Payment Solutions</text>
+  </g>
+  
+  <g transform="translate(320, 210)">
+    <rect width="230" height="100" fill="#9C27B0" rx="10"/>
+    <text x="115" y="55" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Integration of Blockchain in</text>
+    <text x="115" y="75" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Traditional Payment Systems</text>
+  </g>
+</svg>

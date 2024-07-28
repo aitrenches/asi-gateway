@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Growth in Cryptocurrency Transaction Volume</text>
+  
+  <!-- Axes -->
+  <line x1="50" y1="350" x2="550" y2="350" stroke="black" stroke-width="2"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="black" stroke-width="2"/>
+  
+  <!-- Labels -->
+  <text x="300" y="390" font-family="Arial" font-size="14" text-anchor="middle">Year</text>
+  <text x="30" y="200" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 30 200)">Transaction Volume ($B)</text>
+  
+  <!-- Data points -->
+  <polyline points="50,330 150,310 250,270 350,200 450,100 550,50" fill="none" stroke="#4CAF50" stroke-width="3"/>
+  
+  <!-- Year labels -->
+  <text x="50" y="370" font-family="Arial" font-size="12" text-anchor="middle">2020</text>
+  <text x="150" y="370" font-family="Arial" font-size="12" text-anchor="middle">2021</text>
+  <text x="250" y="370" font-family="Arial" font-size="12" text-anchor="middle">2022</text>
+  <text x="350" y="370" font-family="Arial" font-size="12" text-anchor="middle">2023</text>
+  <text x="450" y="370" font-family="Arial" font-size="12" text-anchor="middle">2024</text>
+  <text x="550" y="370" font-family="Arial" font-size="12" text-anchor="middle">2025</text>
+</svg>

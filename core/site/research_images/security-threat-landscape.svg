@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Security Threat Landscape</text>
+  
+  <!-- Central icon representing a crypto payment gateway -->
+  <circle cx="300" cy="200" r="100" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="205" font-family="Arial" font-size="14" text-anchor="middle">Crypto Payment Gateway</text>
+  
+  <!-- Threat icons -->
+  <g transform="translate(100,100)">
+    <circle cx="0" cy="0" r="40" fill="#ff6b6b"/>
+    <text x="0" y="5" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Phishing</text>
+  </g>
+  
+  <g transform="translate(500,100)">
+    <circle cx="0" cy="0" r="40" fill="#feca57"/>
+    <text x="0" y="5" font-family="Arial" font-size="12" text-anchor="middle">51% Attack</text>
+  </g>
+  
+  <g transform="translate(100,300)">
+    <circle cx="0" cy="0" r="40" fill="#54a0ff"/>
+    <text x="0" y="5" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Smart Contract Vulnerabilities</text>
+  </g>
+  
+  <g transform="translate(500,300)">
+    <circle cx="0" cy="0" r="40" fill="#5f27cd"/>
+    <text x="0" y="5" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Private Key Theft</text>
+  </g>
+  
+  <!-- Connecting lines -->
+  <line x1="135" y1="135" x2="215" y2="175" stroke="#000000" stroke-width="1"/>
+  <line x1="465" y1="135" x2="385" y2="175" stroke="#000000" stroke-width="1"/>
+  <line x1="135" y1="265" x2="215" y2="225" stroke="#000000" stroke-width="1"/>
+  <line x1="465" y1="265" x2="385" y2="225" stroke="#000000" stroke-width="1"/>
+</svg>

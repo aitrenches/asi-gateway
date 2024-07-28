@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f0f0f0"/>
+  <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Global Remittance Flows and Potential Crypto Impact</text>
+  
+  <!-- Simplified world map -->
+  <path d="M50 100 Q200 50 400 100 T750 100 V300 Q600 350 400 300 T50 300 Z" fill="#d3d3d3" stroke="#000" stroke-width="2"/>
+  
+  <!-- Remittance flows -->
+  <path d="M200 150 Q400 50 600 170" fill="none" stroke="#4CAF50" stroke-width="4"/>
+  <path d="M600 170 Q400 250 200 150" fill="none" stroke="#2196F3" stroke-width="4"/>
+  
+  <!-- Legend -->
+  <rect x="600" y="300" width="180" height="80" fill="white" stroke="black"/>
+  <line x1="610" y1="320" x2="630" y2="320" stroke="#4CAF50" stroke-width="4"/>
+  <text x="635" y="325" font-family="Arial" font-size="12">Traditional Remittance</text>
+  <line x1="610" y1="340" x2="630" y2="340" stroke="#2196F3" stroke-width="4"/>
+  <text x="635" y="345" font-family="Arial" font-size="12">Potential Crypto Flow</text>
+  <text x="610" y="365" font-family="Arial" font-size="12" fill="#FF5722">Potential Cost Savings: 50%</text>
+</svg>

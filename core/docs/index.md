@@ -48,7 +48,7 @@ We need to analyze how existing crypto payment gateways handle:
 
 For our AGIX/ASI Payment Gateway, we need to focus on how we can differentiate ourselves in the market, particularly by catering to the specific needs of AI-enabled SaaS products on the SingularityNET platform.
 
-![Market Research Process](index_images/market-research-process.svg)
+![Market Research Process](research_images/market-research-process.svg)
 
 ## After Market Research?
 
