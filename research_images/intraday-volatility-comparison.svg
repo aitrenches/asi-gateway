@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Intraday Volatility Comparison: Cryptocurrencies vs Fiat</text>
+  
+  <!-- Axes -->
+  <line x1="50" y1="350" x2="550" y2="350" stroke="black" stroke-width="2"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="black" stroke-width="2"/>
+  
+  <!-- Labels -->
+  <text x="300" y="390" font-family="Arial" font-size="14" text-anchor="middle">Time (24 hours)</text>
+  <text x="30" y="200" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 30 200)">Price Change (%)</text>
+  
+  <!-- Data lines -->
+  <path d="M50 200 Q150 100 250 300 T450 150 T550 200" fill="none" stroke="#FF6384" stroke-width="2"/>
+  <path d="M50 200 Q150 150 250 250 T450 100 T550 200" fill="none" stroke="#36A2EB" stroke-width="2"/>
+  <path d="M50 200 Q150 180 250 220 T450 170 T550 200" fill="none" stroke="#FFCE56" stroke-width="2"/>
+  <line x1="50" y1="200" x2="550" y2="200" stroke="#4BC0C0" stroke-width="2"/>
+  
+  <!-- Legend -->
+  <rect x="400" y="50" width="150" height="80" fill="white" stroke="black"/>
+  <line x1="410" y1="70" x2="430" y2="70" stroke="#FF6384" stroke-width="2"/>
+  <text x="435" y="75" font-family="Arial" font-size="12">Bitcoin</text>
+  <line x1="410" y1="90" x2="430" y2="90" stroke="#36A2EB" stroke-width="2"/>
+  <text x="435" y="95" font-family="Arial" font-size="12">Ethereum</text>
+  <line x1="410" y1="110" x2="430" y2="110" stroke="#FFCE56" stroke-width="2"/>
+  <text x="435" y="115" font-family="Arial" font-size="12">Altcoin</text>
+  <line x1="410" y1="130" x2="430" y2="130" stroke="#4BC0C0" stroke-width="2"/>
+  <text x="435" y="135" font-family="Arial" font-size="12">Fiat (USD)</text>
+</svg>

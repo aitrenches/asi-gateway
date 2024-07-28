@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Security Layers in Crypto Payment Gateways</text>
+  
+  <!-- Outer layer: Network Security -->
+  <circle cx="300" cy="220" r="160" fill="#e6f2ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="300" y="95" font-family="Arial" font-size="14" text-anchor="middle" fill="#3366cc">Network Security</text>
+  
+  <!-- Middle layer: Application Security -->
+  <circle cx="300" cy="220" r="120" fill="#fff2e6" stroke="#ff9900" stroke-width="2"/>
+  <text x="300" y="130" font-family="Arial" font-size="14" text-anchor="middle" fill="#ff9900">Application Security</text>
+  
+  <!-- Inner layer: Data Security -->
+  <circle cx="300" cy="220" r="80" fill="#e6ffe6" stroke="#33cc33" stroke-width="2"/>
+  <text x="300" y="165" font-family="Arial" font-size="14" text-anchor="middle" fill="#33cc33">Data Security</text>
+  
+  <!-- Core: User Security -->
+  <circle cx="300" cy="220" r="40" fill="#ffe6e6" stroke="#cc3333" stroke-width="2"/>
+  <text x="300" y="225" font-family="Arial" font-size="14" text-anchor="middle" fill="#cc3333">User Security</text>
+  
+  <!-- Security features -->
+  <text x="300" y="320" font-family="Arial" font-size="12" text-anchor="middle">• Firewalls • DDoS Protection • SSL/TLS</text>
+  <text x="300" y="340" font-family="Arial" font-size="12" text-anchor="middle">• Multi-sig Wallets • Cold Storage • Encryption</text>
+  <text x="300" y="360" font-family="Arial" font-size="12" text-anchor="middle">• 2FA • KYC/AML • Fraud Detection</text>
+</svg>

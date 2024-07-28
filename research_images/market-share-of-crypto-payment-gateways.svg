@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0f0f0"/>
+  <text x="200" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Market Share of Crypto Payment Gateways</text>
+  
+  <g transform="translate(200, 200)">
+    <!-- BitPay -->
+    <path d="M0 0 L180 0 A180 180 0 0 1 127.28 127.28 Z" fill="#ff6b6b"/>
+    <text x="100" y="-70" font-family="Arial" font-size="14" text-anchor="middle">BitPay (35%)</text>
+    
+    <!-- Coinbase Commerce -->
+    <path d="M0 0 L127.28 127.28 A180 180 0 0 1 0 180 Z" fill="#4ecdc4"/>
+    <text x="70" y="100" font-family="Arial" font-size="14" text-anchor="middle">Coinbase Commerce (25%)</text>
+    
+    <!-- CoinPayments -->
+    <path d="M0 0 L0 180 A180 180 0 0 1 -127.28 127.28 Z" fill="#45b7d1"/>
+    <text x="-70" y="100" font-family="Arial" font-size="14" text-anchor="middle">CoinPayments (20%)</text>
+    
+    <!-- BTCPay Server -->
+    <path d="M0 0 L-127.28 127.28 A180 180 0 0 1 -180 0 Z" fill="#f9d56e"/>
+    <text x="-100" y="-70" font-family="Arial" font-size="14" text-anchor="middle">BTCPay Server (10%)</text>
+    
+    <!-- Others -->
+    <path d="M0 0 L-180 0 A180 180 0 0 1 -127.28 -127.28 Z" fill="#999999"/>
+    <text x="-70" y="-100" font-family="Arial" font-size="14" text-anchor="middle">Others (10%)</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  <text x="300" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Transaction Fee Comparison</text>
+  
+  <!-- Axes -->
+  <line x1="50" y1="350" x2="550" y2="350" stroke="black" stroke-width="2"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="black" stroke-width="2"/>
+  
+  <!-- Labels -->
+  <text x="300" y="390" font-family="Arial" font-size="14" text-anchor="middle">Payment Gateways</text>
+  <text x="30" y="200" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 30 200)">Fee Percentage</text>
+  
+  <!-- Bars -->
+  <rect x="100" y="200" width="80" height="150" fill="#4CAF50"/>
+  <rect x="220" y="200" width="80" height="150" fill="#2196F3"/>
+  <rect x="340" y="250" width="80" height="100" fill="#FFC107"/>
+  <rect x="460" y="349" width="80" height="1" fill="#F44336"/>
+  
+  <!-- Labels -->
+  <text x="140" y="370" font-family="Arial" font-size="12" text-anchor="middle">BitPay</text>
+  <text x="260" y="370" font-family="Arial" font-size="12" text-anchor="middle">Coinbase Commerce</text>
+  <text x="380" y="370" font-family="Arial" font-size="12" text-anchor="middle">CoinPayments</text>
+  <text x="500" y="370" font-family="Arial" font-size="12" text-anchor="middle">BTCPay Server</text>
+  
+  <!-- Percentages -->
+  <text x="140" y="190" font-family="Arial" font-size="12" text-anchor="middle">1%</text>
+  <text x="260" y="190" font-family="Arial" font-size="12" text-anchor="middle">1%</text>
+  <text x="380" y="240" font-family="Arial" font-size="12" text-anchor="middle">0.5%</text>
+  <text x="500" y="340" font-family="Arial" font-size="12" text-anchor="middle">0%</text>
+</svg>

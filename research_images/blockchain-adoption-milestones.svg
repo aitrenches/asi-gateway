@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <rect width="800" height="200" fill="#f0f0f0"/>
+  <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Milestones in Blockchain Adoption by Traditional Finance</text>
+  
+  <!-- Timeline -->
+  <line x1="50" y1="100" x2="750" y2="100" stroke="black" stroke-width="2"/>
+  
+  <!-- Milestones -->
+  <circle cx="100" cy="100" r="10" fill="#4CAF50"/>
+  <text x="100" y="130" font-family="Arial" font-size="12" text-anchor="middle">2016: Major banks</text>
+  <text x="100" y="145" font-family="Arial" font-size="12" text-anchor="middle">join R3 consortium</text>
+  
+  <circle cx="250" cy="100" r="10" fill="#2196F3"/>
+  <text x="250" y="130" font-family="Arial" font-size="12" text-anchor="middle">2019: JPM Coin</text>
+  <text x="250" y="145" font-family="Arial" font-size="12" text-anchor="middle">announced</text>
+  
+  <circle cx="400" cy="100" r="10" fill="#FFC107"/>
+  <text x="400" y="130" font-family="Arial" font-size="12" text-anchor="middle">2020: PayPal enables</text>
+  <text x="400" y="145" font-family="Arial" font-size="12" text-anchor="middle">crypto trading</text>
+  
+  <circle cx="550" cy="100" r="10" fill="#9C27B0"/>
+  <text x="550" y="130" font-family="Arial" font-size="12" text-anchor="middle">2022: Visa launches</text>
+  <text x="550" y="145" font-family="Arial" font-size="12" text-anchor="middle">crypto consulting</text>
+  
+  <circle cx="700" cy="100" r="10" fill="#FF5722"/>
+  <text x="700" y="130" font-family="Arial" font-size="12" text-anchor="middle">2024: Major CBDC</text>
+  <text x="700" y="145" font-family="Arial" font-size="12" text-anchor="middle">launches expected</text>
+</svg>

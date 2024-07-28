@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f0f0f0"/>
+  <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Comparison Matrix of Crypto Payment Gateways</text>
+  
+  <!-- Headers -->
+  <text x="150" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Feature</text>
+  <text x="300" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">BitPay</text>
+  <text x="450" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Coinbase Commerce</text>
+  <text x="600" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">CoinPayments</text>
+  <text x="750" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">BTCPay Server</text>
+  
+  <!-- Rows -->
+  <text x="150" y="110" font-family="Arial" font-size="14" text-anchor="end">Transaction Fees</text>
+  <text x="150" y="150" font-family="Arial" font-size="14" text-anchor="end">Settlement Time</text>
+  <text x="150" y="190" font-family="Arial" font-size="14" text-anchor="end">User Interface</text>
+  <text x="150" y="230" font-family="Arial" font-size="14" text-anchor="end">Integration</text>
+  <text x="150" y="270" font-family="Arial" font-size="14" text-anchor="end">Customer Support</text>
+  <text x="150" y="310" font-family="Arial" font-size="14" text-anchor="end">Security</text>
+  <text x="150" y="350" font-family="Arial" font-size="14" text-anchor="end">Regulatory Compliance</text>
+  
+  <!-- Data (using colored circles for rating: Green = Good, Yellow = Average, Red = Poor) -->
+  <!-- BitPay -->
+  <circle cx="300" cy="110" r="8" fill="#4CAF50"/>
+  <circle cx="300" cy="150" r="8" fill="#4CAF50"/>
+  <circle cx="300" cy="190" r="8" fill="#4CAF50"/>
+  <circle cx="300" cy="230" r="8" fill="#4CAF50"/>
+  <circle cx="300" cy="270" r="8" fill="#FFC107"/>
+  <circle cx="300" cy="310" r="8" fill="#4CAF50"/>
+  <circle cx="300" cy="350" r="8" fill="#4CAF50"/>
+  
+  <!-- Coinbase Commerce -->
+  <circle cx="450" cy="110" r="8" fill="#4CAF50"/>
+  <circle cx="450" cy="150" r="8" fill="#4CAF50"/>
+  <circle cx="450" cy="190" r="8" fill="#4CAF50"/>
+  <circle cx="450" cy="230" r="8" fill="#4CAF50"/>
+  <circle cx="450" cy="270" r="8" fill="#FFC107"/>
+  <circle cx="450" cy="310" r="8" fill="#4CAF50"/>
+  <circle cx="450" cy="350" r="8" fill="#4CAF50"/>
+  
+  <!-- CoinPayments -->
+  <circle cx="600" cy="110" r="8" fill="#4CAF50"/>
+  <circle cx="600" cy="150" r="8" fill="#FFC107"/>
+  <circle cx="600" cy="190" r="8" fill="#FFC107"/>
+  <circle cx="600" cy="230" r="8" fill="#4CAF50"/>
+  <circle cx="600" cy="270" r="8" fill="#4CAF50"/>
+  <circle cx="600" cy="310" r="8" fill="#4CAF50"/>
+  <circle cx="600" cy="350" r="8" fill="#FFC107"/>
+  
+  <!-- BTCPay Server -->
+  <circle cx="750" cy="110" r="8" fill="#4CAF50"/>
+  <circle cx="750" cy="150" r="8" fill="#4CAF50"/>
+  <circle cx="750" cy="190" r="8" fill="#FFC107"/>
+  <circle cx="750" cy="230" r="8" fill="#FFC107"/>
+  <circle cx="750" cy="270" r="8" fill="#F44336"/>
+  <circle cx="750" cy="310" r="8" fill="#4CAF50"/>
+  <circle cx="750" cy="350" r="8" fill="#F44336"/>
+</svg>
