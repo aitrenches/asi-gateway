@@ -1,6 +1,6 @@
 # Market Research
 
-## Crypto Payment Gateways for AI-Enabled SaaS Products
+## Crypto Payment Gateways For SaaS Products (IDEATION)
 
 ## Introduction
 
@@ -62,7 +62,7 @@ Key Features:
 
 ![Market Share of Crypto Payment Gateways](research_images/market-share-of-crypto-payment-gateways.svg)
 
-By analyzing these existing solutions, we can identify gaps in the market and opportunities for our AGIX/ASI payment gateway to differentiate itself, particularly in serving the unique needs of AI-enabled SaaS products on the SingularityNET platform.
+By analyzing these existing solutions, we can identify gaps in the market and opportunities for our AGIX/ASI payment gateway to differentiate itself, particularly in serving the unique needs of AI-enabled SaaS products.
 
 ## 2. Key Features
 

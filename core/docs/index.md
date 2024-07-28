@@ -1,5 +1,7 @@
 # Methodology
 
+## AGIX/ASI Payment Gateway For SaaS Products (IDEATION)
+
 Crypto payment gateways are specialized platforms that enable businesses to accept cryptocurrency payments. They're crucial for bridging the gap between traditional financial systems and the emerging crypto economy. To carry out a proper market research here's what we need to consder:
 
 ## 1. Existing Solutions
