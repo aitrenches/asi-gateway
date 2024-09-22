@@ -11,7 +11,7 @@ Setting up django for production is hard! Using this template will give you a ea
 - 🗂 S3 file storage configured out of the box ready to use in django
 - 🤐 Environment secrets tucked away in your repository secrets (so easy to collaborate)
 - 🏎 From code commit to deployed in less than 5 minutes
-- 🤑 Serverless deployment for < $7 per month
+- 🤑 Serverless deployment for < $7 per month.
 
 ## How: 
 - Ever time you commit code to branch `main` --> You trigger a deploy to a new lightsail container automatically
