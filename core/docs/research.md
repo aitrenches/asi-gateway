@@ -401,5 +401,3 @@ By learning from these competitors and tailoring our solution to the unique need
 
 ![Competitive Advantage Areas](research_images/competitive-advantage-areas.svg)
 
-#Test
-#Test 2
