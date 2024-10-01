@@ -1,8 +1,10 @@
 ## 11. Regulatory Landscape Analysis
 
-### 9.1 Established Markets
+### 11.1 Established Markets
 
-#### 9.1.1 United States
+#### 11.1.1 United States
+
+![ Regulatory Landscape Analysis](research_images/cryptocurrency-regulatory-bodies.svg)
 
 ==_Infographic: "US Cryptocurrency Regulatory Bodies"_ This infographic would show the various US agencies involved in crypto regulation (SEC, FinCEN, CFTC, etc.) and their jurisdictions.==
 
@@ -22,7 +24,7 @@
 - High compliance costs due to multi-state licensing requirements.
 - Uncertain classification of certain crypto assets (security vs. commodity).
 
-#### 9.1.2 European Union
+#### 11.1.2 European Union
 
 **Regulations:**
 - Markets in Crypto-Assets (MiCA) regulation to be fully implemented by 2024.
@@ -40,7 +42,7 @@
 - Adapting to new MiCA requirements.
 - Balancing innovation with consumer protection measures.
 
-#### 9.1.3 Japan
+#### 11.1.3 Japan
 
 **Regulations:**
 - Cryptocurrencies recognized as legal property.
@@ -57,9 +59,11 @@
 - Stringent security requirements following past exchange hacks.
 - Adapting to evolving regulations for new crypto products (e.g., stablecoins).
 
-### 9.2 Fast-Growing Markets
+### 11.2 Fast-Growing Markets
 
-#### 9.2.1 India
+#### 11.2.1 India
+
+![ Fast-Growing Markets](research_images/evolution-of-crypto-regulations-in-india-&-brazil.svg)
 
 ==_Timeline: "Evolution of Crypto Regulations in India"_ This timeline would show key regulatory events and changes in India's stance on cryptocurrencies.==
 
@@ -78,7 +82,7 @@
 - Banking restrictions on crypto-related transactions.
 - Navigating tax implications for users.
 
-#### 9.2.2 Brazil
+#### 11.2.2 Brazil
 
 **Regulations:**
 - Cryptocurrencies recognized as digital assets.
@@ -96,9 +100,9 @@
 - Balancing innovation with investor protection.
 - Managing cross-border transactions under new rules.
 
-### 9.3 Emerging Opportunities
+### 11.3 Emerging Opportunities
 
-#### 9.3.1 Nigeria
+#### 11.3.1 Nigeria
 
 **Regulations:**
 - Central Bank of Nigeria (CBN) recognizes cryptocurrencies.
@@ -116,7 +120,9 @@
 - Addressing concerns about crypto use in illicit activities.
 - Managing volatility and investor protection in a developing market.
 
-#### 9.3.2 United Arab Emirates
+#### 11.3.2 United Arab Emirates
+
+![ Emerging Opportunities](research_images/emerging-opportunities.svg)
 
 ==_Diagram: "UAE's Crypto Regulatory Framework"_ This diagram would illustrate the different free zones and their crypto regulations in the UAE.==
 
@@ -136,7 +142,7 @@
 - Keeping pace with rapidly evolving regulations.
 - Ensuring compliance with both local and international standards.
 
-### 9.4 Cross-Market Challenges and Considerations
+### 11.4 Cross-Market Challenges and Considerations
 
 #### Regulatory Fragmentation:
 - Diverse and sometimes conflicting regulations across markets.
@@ -170,7 +176,7 @@
 - Establishing and maintaining banking relationships in various jurisdictions.
 - Navigating potential restrictions on crypto-related banking services.
 
-### 9.5 Strategies for Regulatory Compliance
+### 11.5 Strategies for Regulatory Compliance
 
 #### Modular Compliance Framework:
 - Develop a flexible system that can be easily adapted to different regulatory requirements.

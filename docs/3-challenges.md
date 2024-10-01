@@ -1,6 +1,6 @@
 # 3. Challenges
 
-While crypto payment gateways offer numerous benefits, they also face several significant challenges. Understanding these obstacles is crucial for developing a robust AGIX/ASI payment solution for the SingularityNET ecosystem.
+While crypto payment gateways offer numerous benefits, they also face several significant challenges. Understanding these obstacles is crucial for developing a robust ASI payment solution for the SingularityNET ecosystem.
 
 ![Key Challenges in Crypto Payment Gateways](research_images/key-challenges-in-crypto-payment-gateways.svg)
 
@@ -83,4 +83,4 @@ While blockchain technology offers enhanced security, crypto payment gateways st
 
 ![Security Threat Landscape for Crypto Payment Gateways](research_images/security-threat-landscape.svg)
 
-By addressing these challenges head-on, the AGIX/ASI payment gateway can position itself as a secure, user-friendly, and regulatory-compliant solution. The unique opportunities presented by markets like Africa, combined with the specific needs of AI-enabled SaaS products on the SingularityNET platform, provide a promising foundation for innovation in this space.
+By addressing these challenges head-on, the ASI payment gateway can position itself as a secure, user-friendly, and regulatory-compliant solution. The unique opportunities presented by markets like Africa, combined with the specific needs of AI-enabled SaaS products on the SingularityNET platform, provide a promising foundation for innovation in this space.

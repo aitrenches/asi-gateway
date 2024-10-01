@@ -1,6 +1,6 @@
 # 5. Competitor Analysis of Existing Crypto Payment Gateways
 
-To develop a competitive AGIX/ASI payment gateway, it's crucial to understand how existing solutions perform across key metrics. This analysis focuses on four major players in the crypto payment gateway market: BitPay, Coinbase Commerce, CoinPayments, and BTCPay Server.
+To develop a competitive ASI payment gateway, it's crucial to understand how existing solutions perform across key metrics. This analysis focuses on four major players in the crypto payment gateway market: BitPay, Coinbase Commerce, CoinPayments, and BTCPay Server.
 
 ![Comparison Matrix of Crypto Payment Gateways](research_images/comparison-matrix-of-crypto-payment-gateways.svg)
 
@@ -81,7 +81,7 @@ Adherence to regulations is crucial for long-term viability and merchant trust.
 
 ![Regulatory Compliance by Region](research_images/regulatory-compliance-by-region.svg)
 
-### Key Takeaways for AGIX/ASI Payment Gateway
+### Key Takeaways for ASI Payment Gateway
 
 1. **Competitive Fee Structure**: Aim for fees comparable to or lower than the 1% benchmark set by major competitors.
 2. **Quick Settlement**: Prioritize instant settlements for crypto and fast fiat conversions.
@@ -91,6 +91,6 @@ Adherence to regulations is crucial for long-term viability and merchant trust.
 6. **Enhanced Security**: Implement state-of-the-art security measures, possibly including multisig wallets and cold storage.
 7. **Regulatory Proactivity**: Develop a clear strategy for regulatory compliance, particularly in key AI markets.
 
-By learning from these competitors and tailoring our solution to the unique needs of AI-enabled SaaS products on the SingularityNET platform, the AGIX/ASI payment gateway can carve out a distinct and valuable niche in the market.
+By learning from these competitors and tailoring our solution to the unique needs of AI-enabled SaaS products on the SingularityNET platform, the ASI payment gateway can carve out a distinct and valuable niche in the market.
 
 ![Competitive Advantage Areas](research_images/competitive-advantage-areas.svg)
