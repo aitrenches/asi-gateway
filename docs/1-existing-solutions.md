@@ -6,7 +6,7 @@
 
 In the rapidly evolving landscape of artificial intelligence and blockchain technology, the need for specialized payment solutions has become increasingly apparent. This research delves into the world of cryptocurrency payment gateways, with a particular focus on their potential application for AI-enabled Software as a Service (SaaS) products within the SingularityNET ecosystem.
 
-As we explore the existing market, key features, challenges, and trends, we aim to identify opportunities for creating a unique AGIX/ASI payment gateway. This gateway will not only facilitate transactions using SingularityNET's native token but also address the specific needs of AI developers and users on the platform.
+As we explore the existing market, key features, challenges, and trends, we aim to identify opportunities for creating a unique ASI payment gateway. This gateway will not only facilitate transactions using SingularityNET's native token but also address the specific needs of AI developers and users on the platform.
 
 Our research will provide valuable insights to guide the development of a payment solution that enhances the SingularityNET marketplace, empowers developers to monetize their AI services effectively, and contributes to the growth of the ecosystem as a whole.
 
@@ -62,4 +62,4 @@ Key Features:
 
 ![Market Share of Crypto Payment Gateways](research_images/market-share-of-crypto-payment-gateways.svg)
 
-By analyzing these existing solutions, we can identify gaps in the market and opportunities for our AGIX/ASI payment gateway to differentiate itself, particularly in serving the unique needs of AI-enabled SaaS products.
+By analyzing these existing solutions, we can identify gaps in the market and opportunities for our ASI payment gateway to differentiate itself, particularly in serving the unique needs of AI-enabled SaaS products.

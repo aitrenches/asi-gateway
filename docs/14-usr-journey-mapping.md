@@ -1,6 +1,9 @@
 # 14. User Journey Mapping
 
-### 12.1 Current Payment Process for AI SaaS Products on SingularityNET Marketplace
+### 14.1 Current Payment Process for AI SaaS Products on SingularityNET Marketplace
+
+![ Current Payment Process for AI SaaS Products on SingularityNET Marketplace](research_images/current-payment-process-for-ai-saas-products-on-ingularityNET-marketplace.svg)
+
 ==_Flow Diagram: "Current Payment Process"_ This diagram visually represents the steps in the current payment process, from user discovery to service usage:==
 
 - **Discovery**: The user finds an AI service on the SingularityNET Marketplace.
@@ -13,7 +16,10 @@
 - **Usage**: The user utilizes the AI service on the Marketplace platform.
 - **Renewal/Termination**: The user decides to continue or end the service.
 
-### 12.2 Pain Points in the Current Process
+### 14.2 Pain Points in the Current Process
+
+![ Pain Points in the Current Process](research_images/pain-points-in-the-current-process.svg)
+
 ==_A Heat Map: "Pain Points Intensity"_ This heat map highlights the intensity of pain points at each stage of the current process:==
 
 - **Limited Payment Options**: Users are restricted to using AGIX tokens, which may be a barrier for those unfamiliar with crypto.
@@ -24,7 +30,10 @@
 - **Volatility Concerns**: AGIX token price fluctuations may affect pricing stability, leading to unexpected costs for users.
 - **Transaction Delays**: Blockchain confirmation times may delay service access, especially during network congestion.
 
-### 12.3 Opportunities for Improvement with New Payment Gateway
+### 14.3 Opportunities for Improvement with New Payment Gateway
+
+![ Opportunities for Improvement with New Payment Gateway](research_images/opportunities-for-improvement-with-new-payment-gateway.svg)
+
 ==_A Comparison Table: "Current Process vs. New Payment Gateway"_ Key improvements the new gateway could offer:==
 
 - **Decentralized Payment Collection**: Service providers can collect payments directly on their own platforms, offering more flexibility.
@@ -36,7 +45,10 @@
 - **Enhanced Analytics**: Service providers receive detailed payment analytics to inform pricing and service offerings.
 - **Layer 2 Scaling Solutions**: Layer 2 solutions reduce transaction times and fees, improving user experience.
 
-### 12.4 Proposed User Journey with New Payment Gateway
+### 14.4 Proposed User Journey with New Payment Gateway
+
+![ Proposed User Journey with New Payment Gateway](research_images/proposed-user-journey-with-new-payment-gateway.svg)
+
 ==_A Flow Diagram: "Proposed Payment Process"_ This diagram illustrates the streamlined payment process with the new gateway:==
 
 - **Discovery**: User finds an AI service (on Marketplace or provider's platform).
@@ -49,7 +61,7 @@
 - **Continuous Usage**: Seamless experience for subscription-based services.
 - **Easy Management**: User can manage all subscriptions in one interface.
 
-### 12.5 Key Benefits of New Payment Gateway
+### 14.5 Key Benefits of New Payment Gateway
 
 - **Empowerment of Service Providers**: Providers can collect payments directly, giving them more control over the user experience and branding.
 - **Increased Flexibility**: Support for various payment models, including one-time, subscription, and usage-based payments.

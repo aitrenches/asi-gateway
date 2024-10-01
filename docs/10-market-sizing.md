@@ -1,9 +1,11 @@
 # 10. Market Sizing and Revenue Projection
 
-To estimate the potential market size for our AGIX/ASI payment gateway, we'll consider the intersection of three key markets: AI services, blockchain-based payments, and SaaS platforms. We'll then group these markets according to size and advantages in emerging markets.
+To estimate the potential market size for our ASI payment gateway, we'll consider the intersection of three key markets: AI services, blockchain-based payments, and SaaS platforms. We'll then group these markets according to size and advantages in emerging markets.
 
-### 5.1 Global Market Overview
+### 10.1 Global Market Overview
 ==_A Pie Chart: "Global AI Market Distribution"_ This chart would show the relative size of AI markets in different regions.==
+
+![ Global Market Overview](research_images/global-market-overview.svg)
 
 #### AI Market:
 - Global AI market size (2024): $190 billion
@@ -17,7 +19,7 @@ To estimate the potential market size for our AGIX/ASI payment gateway, we'll co
 - Global SaaS market size (2024): $195 billion
 - Projected CAGR (2024-2030): 18.7%
 
-### 5.2 Market Groupings
+### 10.2 Market Groupings
 
 We'll group the markets into three categories based on size and emerging market advantages:
 
@@ -25,8 +27,10 @@ We'll group the markets into three categories based on size and emerging market 
 - **Fast-Growing Markets**: Southeast Asia, India, Eastern Europe, Latin America
 - **Emerging Opportunities**: Africa, Middle East, Central Asia
 
-### 5.3 Market Size Estimation
+### 10.3 Market Size Estimation
 ==_Stacked Bar Chart: "Estimated Market Size by Region and Category"_ This chart would show the potential market size for each region, broken down by established, fast-growing, and emerging markets.==
+
+![ Market Size Estimation](research_images/estimated-market-size-by-religion-and-category.svg)
 
 #### Established Markets (60% of total addressable market):
 - **North America**: $5.4 billion
@@ -46,9 +50,11 @@ We'll group the markets into three categories based on size and emerging market 
 
 **Total Addressable Market (TAM)**: $18 billion
 
-### 5.4 Adoption Rate Projections
+### 10.4 Adoption Rate Projections
 
-We'll project adoption rates over a 5-year period, considering the unique positioning of the AGIX/ASI payment gateway in the SingularityNET ecosystem.
+We'll project adoption rates over a 5-year period, considering the unique positioning of the ASI payment gateway in the SingularityNET ecosystem.
+
+![ Adoption Rate Projections](research_images/projected-adoption-rates-by-market-group.svg)
 
 ==_A Line Graph: "Projected Adoption Rates by Market Group"_ This graph would show the estimated adoption rates over 5 years for each market group.==
 
@@ -59,9 +65,11 @@ We'll project adoption rates over a 5-year period, considering the unique positi
 | 3    | 2.5%                 | 1.8%                 | 1.2%                   |
 | 4    | 4.0%                 | 3.2%                 | 2.5%                   |
 
-### 5.5 Revenue Projections
+### 10.5 Revenue Projections
 
 Assuming a 1% transaction fee on processed payments, we can project potential revenue:
+
+![ Revenue Projections](research_images/projected-revenue-by-market-group.svg)
 
 ==_A Stacked Area Chart: "Projected Revenue by Market Group"_ This chart would show the estimated revenue growth over 5 years for each market group.==
 
@@ -73,7 +81,7 @@ Assuming a 1% transaction fee on processed payments, we can project potential re
 | 4    | $48.0M               | $17.3M               | $2.5M                  | $67.8M        |
 | 5    | $72.0M               | $27.0M               | $4.0M                  | $103.0M       |
 
-### 5.6 Key Insights and Opportunities
+### 10.6 Key Insights and Opportunities
 
 #### Established Markets:
 - Largest immediate opportunity due to mature AI and SaaS ecosystems
@@ -99,7 +107,7 @@ Assuming a 1% transaction fee on processed payments, we can project potential re
 - Significant potential in facilitating cross-border AI service transactions
 - Advantage over traditional payment methods in international transfers
 
-### 5.7 Factors Influencing Adoption and Revenue
+### 10.7 Factors Influencing Adoption and Revenue
 
 #### Integration with SingularityNET Marketplace:
 - Seamless integration could accelerate adoption among existing users
@@ -121,6 +129,6 @@ Assuming a 1% transaction fee on processed payments, we can project potential re
 - Investment in user education could accelerate adoption, especially in emerging markets
 - Collaboration with local tech communities and educational institutions
 
-By focusing on these market dynamics and leveraging the unique positioning within the SingularityNET ecosystem, the AGIX/ASI payment gateway has significant potential for growth. The projected revenue of over $100 million by year 5 represents a small but rapidly growing share of the total addressable market, with ample room for expansion, particularly in fast-growing and emerging markets.
+By focusing on these market dynamics and leveraging the unique positioning within the SingularityNET ecosystem, the ASI payment gateway has significant potential for growth. The projected revenue of over $100 million by year 5 represents a small but rapidly growing share of the total addressable market, with ample room for expansion, particularly in fast-growing and emerging markets.
 
 ---
