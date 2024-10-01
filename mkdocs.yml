@@ -1,4 +1,4 @@
-site_name: AGIX/ASI Payment Gateway For SaaS Products (IDEATION)
+site_name: ASI Payment Gateway For SaaS Products (IDEATION)
 site_url: https://aitrenches.github.io/asi-gateway
 theme:
   name: material
@@ -26,6 +26,25 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+
+# Specify the order manually in the 'nav' section
+nav:
+  - Methodology: 'index.md'
+  - Existing Solutions: '1-existing-solutions.md'
+  - Key Features: '2-key-features.md'
+  - Challenges: '3-challenges.md'
+  - Market Trends in Crypto Payment Gateways: '4-mkt-trends.md'
+  - Competitor Analysis: '5-competitor-analysis.md'
+  - Survey Responses: '6-survey-responses.md'
+  - Interviews: '7-interviews.md'
+  - Competitive Analysis: '8-competitive-analysis.md'
+  - User Persona: '9-user-persona.md'
+  - Market Sizing: '10-market-sizing.md'
+  - Regulatory Landscape: '11-regulatory-landscape.md'
+  - Trend Analysis: '12-trend-analysis.md'
+  - SWOT Analysis: '13-swot-analysis.md'
+  - User Journey Mapping: '14-usr-journey-mapping.md'
+  - Benchmark Study: '15-benchmark-study.md'
 
 plugins:
   - social
