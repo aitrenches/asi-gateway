@@ -6,8 +6,6 @@ Staying updated on emerging trends in blockchain and cryptocurrency payments is 
 
 ![ Emerging Trends in Blockchain and Cryptocurrency Payments](research_images/emergin-trends-in-blockchain-and-cryptocurrency-payments.svg)
 
-==_Infographic: "Emerging Trends in Blockchain and Crypto Payments"_ This infographic would visually represent the key trends discussed below.==
-
 #### 12.1.1 Layer 2 Scaling Solutions
 **Trend:** Implementation of Layer 2 solutions like Lightning Network (Bitcoin) and Rollups (Ethereum) to improve transaction speed and reduce costs.
 
@@ -42,8 +40,6 @@ Staying updated on emerging trends in blockchain and cryptocurrency payments is 
 
 ![ Cross-Chain Interoperability](research_images/cross-chain-interoperability.svg)
 
-==_ADiagram: "Cross-Chain Payment Flow"_ This diagram would illustrate how a payment could flow across different blockchain networks through interoperability protocols.==
-
 #### 12.1.5 Privacy-Enhancing Technologies
 **Trend:** Increased focus on privacy in blockchain transactions (e.g., zero-knowledge proofs, confidential transactions).
 
@@ -71,8 +67,6 @@ Staying updated on emerging trends in blockchain and cryptocurrency payments is 
 ### 12.2 Evaluation of Potential Impacts on ASI Payment Gateway
 
 ![ Evaluation of Potential Impacts on ASI Payment Gateway](research_images/evaluation-of-potential-impacts-on-asi-payment-gateway.svg)
-
-==_Matrix: "Impact vs. Implementation Difficulty"_This matrix would plot the various trends based on their potential impact and the difficulty of implementation for our project.==
 
 #### 12.2.1 High Impact, Lower Difficulty
 - **Layer 2 Scaling Solutions**

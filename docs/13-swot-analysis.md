@@ -2,8 +2,6 @@
 
 ![ SWOT Analysis for ASI Payment Gateway Project](research_images/swot-analysis-for-asi-payment-gateway-project.svg)
 
-==_Insert SWOT Matrix Diagram_ This diagram would visually represent the four quadrants of the SWOT analysis, with key points listed in each.==
-
 #### 13.1 Strengths
 - **Specialized Focus on AI Services:**
   - Tailored specifically for AI-enabled SaaS products.
@@ -113,8 +111,6 @@
   - Education barrier for non-tech-savvy users.
 
 ![ SWOT Factor Impact Analysis](research_images/swot-factor-impact-analysis.svg)
-
-==_Insert Heatmap: "SWOT Factor Impact Analysis"_ This heatmap would visually represent the relative impact and likelihood of each SWOT factor, helping to prioritize focus areas.==
 
 #### 13.5 Strategic Implications
 Based on this SWOT analysis, here are key strategic implications for the ASI payment gateway project:

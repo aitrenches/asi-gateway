@@ -3,7 +3,6 @@
 To estimate the potential market size for our ASI payment gateway, we'll consider the intersection of three key markets: AI services, blockchain-based payments, and SaaS platforms. We'll then group these markets according to size and advantages in emerging markets.
 
 ### 10.1 Global Market Overview
-==_A Pie Chart: "Global AI Market Distribution"_ This chart would show the relative size of AI markets in different regions.==
 
 ![ Global Market Overview](research_images/global-market-overview.svg)
 
@@ -28,7 +27,6 @@ We'll group the markets into three categories based on size and emerging market 
 - **Emerging Opportunities**: Africa, Middle East, Central Asia
 
 ### 10.3 Market Size Estimation
-==_Stacked Bar Chart: "Estimated Market Size by Region and Category"_ This chart would show the potential market size for each region, broken down by established, fast-growing, and emerging markets.==
 
 ![ Market Size Estimation](research_images/estimated-market-size-by-religion-and-category.svg)
 
@@ -56,7 +54,6 @@ We'll project adoption rates over a 5-year period, considering the unique positi
 
 ![ Adoption Rate Projections](research_images/projected-adoption-rates-by-market-group.svg)
 
-==_A Line Graph: "Projected Adoption Rates by Market Group"_ This graph would show the estimated adoption rates over 5 years for each market group.==
 
 | Year | Established Markets | Fast-Growing Markets | Emerging Opportunities |
 |------|----------------------|----------------------|------------------------|
@@ -71,7 +68,6 @@ Assuming a 1% transaction fee on processed payments, we can project potential re
 
 ![ Revenue Projections](research_images/projected-revenue-by-market-group.svg)
 
-==_A Stacked Area Chart: "Projected Revenue by Market Group"_ This chart would show the estimated revenue growth over 5 years for each market group.==
 
 | Year | Established Markets | Fast-Growing Markets | Emerging Opportunities | Total Revenue |
 |------|----------------------|----------------------|------------------------|---------------|

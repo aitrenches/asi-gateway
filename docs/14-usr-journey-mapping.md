@@ -4,8 +4,6 @@
 
 ![ Current Payment Process for AI SaaS Products on SingularityNET Marketplace](research_images/current-payment-process-for-ai-saas-products-on-ingularityNET-marketplace.svg)
 
-==_Flow Diagram: "Current Payment Process"_ This diagram visually represents the steps in the current payment process, from user discovery to service usage:==
-
 - **Discovery**: The user finds an AI service on the SingularityNET Marketplace.
 - **Selection**: The user selects the desired service and pricing plan.
 - **Wallet Connection**: The user connects their crypto wallet to the Marketplace.
@@ -20,8 +18,6 @@
 
 ![ Pain Points in the Current Process](research_images/pain-points-in-the-current-process.svg)
 
-==_A Heat Map: "Pain Points Intensity"_ This heat map highlights the intensity of pain points at each stage of the current process:==
-
 - **Limited Payment Options**: Users are restricted to using AGIX tokens, which may be a barrier for those unfamiliar with crypto.
 - **Multi-Step Process**: Users need to acquire tokens before making a payment, adding complexity for less tech-savvy users.
 - **Centralized Platform Dependency**: All transactions go through the SingularityNET Marketplace, limiting flexibility for service providers.
@@ -33,8 +29,6 @@
 ### 14.3 Opportunities for Improvement with New Payment Gateway
 
 ![ Opportunities for Improvement with New Payment Gateway](research_images/opportunities-for-improvement-with-new-payment-gateway.svg)
-
-==_A Comparison Table: "Current Process vs. New Payment Gateway"_ Key improvements the new gateway could offer:==
 
 - **Decentralized Payment Collection**: Service providers can collect payments directly on their own platforms, offering more flexibility.
 - **Multiple Token Support**: Support for payments in AGIX, ASI, and potentially other cryptocurrencies reduces barriers to entry.
@@ -48,8 +42,6 @@
 ### 14.4 Proposed User Journey with New Payment Gateway
 
 ![ Proposed User Journey with New Payment Gateway](research_images/proposed-user-journey-with-new-payment-gateway.svg)
-
-==_A Flow Diagram: "Proposed Payment Process"_ This diagram illustrates the streamlined payment process with the new gateway:==
 
 - **Discovery**: User finds an AI service (on Marketplace or provider's platform).
 - **Selection**: User selects the desired service and pricing plan.

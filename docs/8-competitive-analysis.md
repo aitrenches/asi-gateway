@@ -53,8 +53,6 @@ In this section, we'll evaluate blockchain platforms that offer services similar
 
 ![ Evaluation of Competing Blockchain Platforms](research_images/evaluation-of-competing-blockchain-platforms.svg)
 
-==_A Radar Chart: "Feature Comparison of Blockchain Platforms"_ This chart would visually compare the platforms across metrics like transaction speed, fees, developer adoption, and ecosystem maturity.==
-
 ### 8.2 Identifying Our Unique Value Proposition
 
 Based on the analysis of competing platforms and the specific needs of the SingularityNET ecosystem, we can identify several unique selling points for our ASI payment gateway:
@@ -84,9 +82,6 @@ Based on the analysis of competing platforms and the specific needs of the Singu
   Implement transparent and fair pricing mechanisms for AI services.
 
 ![ Identifying Our Unique Value Proposition](research_images/asi-payment-gateway-unique-value-proposition.svg)
-
-==_Venn Diagram: "ASI Payment Gateway Unique Value Proposition"_ This diagram would illustrate how our solution sits at the intersection of AI, blockchain payments, and SaaS, highlighting our unique position in the market.==
-
 #### Key Takeaways
 
 - While established blockchain platforms offer robust payment solutions, none are specifically tailored for the AI and SaaS markets that SingularityNET serves.
