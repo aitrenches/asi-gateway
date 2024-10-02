@@ -6,7 +6,6 @@
 
 ![ Regulatory Landscape Analysis](research_images/cryptocurrency-regulatory-bodies.svg)
 
-==_Infographic: "US Cryptocurrency Regulatory Bodies"_ This infographic would show the various US agencies involved in crypto regulation (SEC, FinCEN, CFTC, etc.) and their jurisdictions.==
 
 **Regulations:**
 - Cryptocurrencies are treated as property for tax purposes (IRS).
@@ -65,8 +64,6 @@
 
 ![ Fast-Growing Markets](research_images/evolution-of-crypto-regulations-in-india-&-brazil.svg)
 
-==_Timeline: "Evolution of Crypto Regulations in India"_ This timeline would show key regulatory events and changes in India's stance on cryptocurrencies.==
-
 **Regulations:**
 - Cryptocurrencies not recognized as legal tender.
 - Crypto income taxed at 30%.
@@ -124,7 +121,6 @@
 
 ![ Emerging Opportunities](research_images/emerging-opportunities.svg)
 
-==_Diagram: "UAE's Crypto Regulatory Framework"_ This diagram would illustrate the different free zones and their crypto regulations in the UAE.==
 
 **Regulations:**
 - Positive stance towards cryptocurrencies, especially in free zones.

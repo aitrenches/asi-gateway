@@ -21,8 +21,6 @@
 
 ![ Detailed Comparison Transaction Fees](research_images/detailed-comparison-transaction-fees.svg)
 
-==_A Bar Graph: "Transaction Fee Comparison"_ This graph compares transaction fee structures:==
-
 - **ASI Gateway**: 1% (projected)
 - **BitPay**: 1% for business accounts
 - **Coinbase Commerce**: 1% for crypto-to-crypto
@@ -44,8 +42,6 @@
 #### 15.2.3 Integration Ease
 
 ![ Detailed Comparison Integration Ease ](research_images/detailed-comparison-integration-ease.svg)
-
-==_A Pie Chart: "Developer Survey - Integration Ease"_ This chart shows developer preferences based on ease of integration:==
 
 - **ASI Gateway**: Designed for easy integration with AI services.
 - **BitPay**: Well-documented API, plugins for major platforms.
@@ -118,9 +114,6 @@
 - Offer advanced analytics and insights for AI service providers.
 
 ![ Competitive Advantage Areas](research_images/areas-where-we-can-outperform-competitors.svg)
-
-==_A Radar Chart: "Competitive Advantage Areas"_  This chart would visually represent the areas where the ASI gateway has the potential to outperform competitors.==
-
 
 ### 15.4 Key Takeaways
 
