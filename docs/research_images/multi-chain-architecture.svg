@@ -1,0 +1,20 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="580" height="380" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="40" font-family="Arial" font-size="20" text-anchor="middle">AGIX/ASI Payment Gateway</text>
+  
+  <!-- Ethereum Chain -->
+  <rect x="50" y="80" width="200" height="100" fill="#3c3c3d" stroke="#000000" stroke-width="2"/>
+  <text x="150" y="130" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Ethereum Module</text>
+  
+  <!-- Cardano Chain -->
+  <rect x="350" y="80" width="200" height="100" fill="#0033ad" stroke="#000000" stroke-width="2"/>
+  <text x="450" y="130" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Cardano Module</text>
+  
+  <!-- Cross-Chain Bridge -->
+  <rect x="200" y="220" width="200" height="60" fill="#4caf50" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="255" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Cross-Chain Bridge</text>
+  
+  <!-- Connecting Lines -->
+  <line x1="150" y1="180" x2="250" y2="220" stroke="#000000" stroke-width="2"/>
+  <line x1="450" y1="180" x2="350" y2="220" stroke="#000000" stroke-width="2"/>
+</svg>

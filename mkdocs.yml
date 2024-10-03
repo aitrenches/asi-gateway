@@ -45,6 +45,7 @@ nav:
   - SWOT Analysis: '13-swot-analysis.md'
   - User Journey Mapping: '14-usr-journey-mapping.md'
   - Benchmark Study: '15-benchmark-study.md'
+  - Feasibility Study: 'FEASIBILITY-STUDY.md'
 
 plugins:
   - social

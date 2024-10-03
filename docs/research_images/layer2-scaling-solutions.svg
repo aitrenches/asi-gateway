@@ -1,0 +1,27 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="580" height="380" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="40" font-family="Arial" font-size="20" text-anchor="middle">Layer 2 Scaling Solutions</text>
+  
+  <!-- Main Chain -->
+  <rect x="50" y="80" width="500" height="60" fill="#3c3c3d" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="115" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Main Chain (Ethereum/Cardano)</text>
+  
+  <!-- Optimistic Rollup -->
+  <rect x="50" y="180" width="200" height="100" fill="#ff9800" stroke="#000000" stroke-width="2"/>
+  <text x="150" y="230" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Optimistic Rollup</text>
+  
+  <!-- Hydra -->
+  <rect x="350" y="180" width="200" height="100" fill="#2196f3" stroke="#000000" stroke-width="2"/>
+  <text x="450" y="230" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Hydra</text>
+  
+  <!-- Arrows -->
+  <line x1="150" y1="140" x2="150" y2="180" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="450" y1="140" x2="450" y2="180" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" />
+    </marker>
+  </defs>
+</svg>

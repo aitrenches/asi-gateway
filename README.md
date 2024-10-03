@@ -1,5 +1,5 @@
 # asi-gateway
-# ASI Payment Gateway (IDEATION)
+# ASI Payment Gateway 
 
 ## 🚀 About The Project
 
