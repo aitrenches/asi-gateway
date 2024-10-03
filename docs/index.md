@@ -38,7 +38,7 @@ Crypto payment gateways are specialized platforms that enable businesses to acce
 
 ## 5. Competitor Analysis
 
-We need to analyze how existing crypto payment gateways handle:
+Next, analyze how existing crypto payment gateways handle:
 
 - Transaction fees
 - Settlement times
@@ -48,55 +48,55 @@ We need to analyze how existing crypto payment gateways handle:
 - Security measures
 - Regulatory compliance
 
-For our AGIX/ASI Payment Gateway, we need to focus on how we can differentiate ourselves in the market, particularly by catering to the specific needs of AI-enabled SaaS products on the SingularityNET platform.
+For the ASI Payment Gateway, we need to focus on how we can differentiate in the market, particularly by catering to the specific needs of AI-enabled SaaS products on the SingularityNET platform.
 
 ![Market Research Process](research_images/market-research-process.svg)
 
 ## After Market Research?
 
-## 6. Analyze survey responses:
-- Identify common pain points and desired features
-- Assess the level of interest in using AGIX and ASI tokens for payments
-- Understand the technical capabilities of our user base
+## 6. Survey responses:
+- Common pain points and desired features
+- The level of interest in using ASI tokens for payments
+- Understanding the technical capabilities of the user base
 
-## 7. Conduct in-depth interviews:
-- Select a diverse group of developers and users for one-on-one interviews
-- Prepare a detailed interview guide to explore their experiences and needs
+## 7. In-depth interviews:
+- A diverse group of developers and users for one-on-one interviews
+- A detailed interview guide to explore their experiences and needs
 
 ## 8. Competitive analysis:
-- Evaluate other blockchain platforms offering similar services
-- Identify our unique value proposition
+- Evaluating other blockchain platforms offering similar services
+- Identifying our unique value proposition
 
 ## 9. User persona development:
-- Create detailed profiles of our target users based on research findings
-- Use these personas to guide feature prioritization and UX design
+- Detailed profiles of our target users based on research findings
+- Using these personas to guide feature prioritization and UX design
 
 ## 10. Market sizing:
-- Estimate the potential market size for our payment gateway
-- Project potential adoption rates and revenue
+- Estimating the potential market size for our payment gateway
+- Projecting potential adoption rates and revenue
 
 ## 11. Regulatory landscape:
-- Research cryptocurrency regulations in key markets
-- Identify compliance requirements and potential challenges
+- Researching cryptocurrency regulations in key markets
+- Identifying compliance requirements and potential challenges
 
 ## 12. Technology trend analysis:
-- Stay updated on emerging trends in blockchain and cryptocurrency payments
-- Evaluate potential impacts on our project
+- Staying updated on emerging trends in blockchain and cryptocurrency payments
+- Evaluating potential impacts on our project
 
 ## 13. SWOT analysis:
-- Conduct a comprehensive SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for our payment gateway project
+- Conducting a comprehensive SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for the payment gateway project
 
 ## 14. User journey mapping:
-- Map out the current payment process for SaaS products on our platform
-- Identify pain points and opportunities for improvement
+- Mapping out the current payment process for SaaS products on our platform
+- Identifying pain points and opportunities for improvement
 
 ## 15. Benchmark study:
-- Compare our proposed solution with existing crypto payment gateways
-- Identify areas where we can outperform competitors
+- Comparing our proposed solution with existing crypto payment gateways
+- Identifying areas where we can outperform competitors
 
 ## Report
 
-This will be a comprehensive market research report that includes:
+This is a comprehensive market research report that includes:
 
 1. Executive summary
 2. Methodology
@@ -113,4 +113,4 @@ This will be a comprehensive market research report that includes:
 13. Key findings and recommendations
 14. Appendices (raw data, detailed charts, etc.)
 
-This report will provide a solid foundation for the subsequent phases of the project, ensuring that our payment gateway is designed to meet real market needs and has the potential for widespread adoption within our ecosystem.
+This report provides a solid foundation for the subsequent phases of the project, ensuring that the ASI payment gateway is designed to meet real market needs and has the potential for widespread adoption within the ecosystem.
