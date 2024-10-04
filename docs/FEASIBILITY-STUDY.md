@@ -1,5 +1,3 @@
-Certainly! Here's the content formatted in good Markdown:
-
 # Feasibility Study Report for ASI Payment Gateway
 
 ## Executive Summary

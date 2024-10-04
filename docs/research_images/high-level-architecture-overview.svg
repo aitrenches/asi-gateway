@@ -1,0 +1,31 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="780" height="580" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">AGIX/ASI Payment Gateway Architecture</text>
+  
+  <!-- User Interface Layer -->
+  <rect x="50" y="80" width="700" height="60" fill="#4CAF50" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="115" font-family="Arial" font-size="18" fill="white" text-anchor="middle">User Interface Layer</text>
+  
+  <!-- API Gateway -->
+  <rect x="50" y="160" width="700" height="60" fill="#2196F3" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="195" font-family="Arial" font-size="18" fill="white" text-anchor="middle">API Gateway</text>
+  
+  <!-- Business Logic Layer -->
+  <rect x="50" y="240" width="700" height="60" fill="#FFC107" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="275" font-family="Arial" font-size="18" fill="black" text-anchor="middle">Business Logic Layer</text>
+  
+  <!-- Blockchain Integration Layer -->
+  <rect x="50" y="320" width="340" height="100" fill="#9C27B0" stroke="#000000" stroke-width="2"/>
+  <text x="220" y="370" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Ethereum Integration</text>
+  
+  <rect x="410" y="320" width="340" height="100" fill="#3F51B5" stroke="#000000" stroke-width="2"/>
+  <text x="580" y="370" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Cardano Integration</text>
+  
+  <!-- Cross-Chain Bridge -->
+  <rect x="200" y="440" width="400" height="60" fill="#FF5722" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="475" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Cross-Chain Bridge</text>
+  
+  <!-- Security Layer -->
+  <rect x="50" y="520" width="700" height="60" fill="#607D8B" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="555" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Security Layer</text>
+</svg>

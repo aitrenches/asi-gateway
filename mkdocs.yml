@@ -46,6 +46,7 @@ nav:
   - User Journey Mapping: '14-usr-journey-mapping.md'
   - Benchmark Study: '15-benchmark-study.md'
   - Feasibility Study: 'FEASIBILITY-STUDY.md'
+  - Architecture: 'ARCHITECTURE.md'
 
 plugins:
   - social
