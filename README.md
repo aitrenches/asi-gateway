@@ -104,10 +104,7 @@ Project Link: [https://github.com/aitrenches/asi-gateway](https://github.com/ait
 ## 🙏 Acknowledgements
 
 - [SingularityNET](https://singularitynet.io/)
-- [Ethereum](https://ethereum.org/)
-- [OpenZeppelin](https://openzeppelin.com/)
-- [Web3.js](https://web3js.readthedocs.io/)
 
 ---
 
-Built with ❤️ by the Anthony Oliko for the SingularityNET community
+Built with ❤️ by the Anthony Oliko & Justice Ango for the SingularityNET community
