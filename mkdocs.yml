@@ -47,6 +47,7 @@ nav:
   - Benchmark Study: '15-benchmark-study.md'
   - Feasibility Study: 'FEASIBILITY-STUDY.md'
   - Architecture: 'ARCHITECTURE.md'
+  - Roadmap: 'ROADMAP.md'
 
 plugins:
   - social
