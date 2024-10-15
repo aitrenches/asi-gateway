@@ -11,7 +11,7 @@ Survey Link: [Insert Survey Link Here]
 
 The survey covers:
 
-1. Your current payment processing methods and challenges
+1. The current payment processing methods and challenges
 2. Features you'd like to see in a crypto payment gateway
 3. Concerns about using cryptocurrencies for payments
 4. Potential integration challenges you foresee
@@ -19,7 +19,7 @@ The survey covers:
 
 Expected Response:
 
-We're aiming for at least a 60% response rate from the community members. Your participation is vital in ensuring we develop a solution that truly meets your needs.
+We are aiming for at least a 60% response rate from the community members. Your participation is vital in ensuring we develop a solution that truly meets your needs.
 
 Goal:
 
