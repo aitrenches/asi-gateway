@@ -1,5 +1,5 @@
 # 6. Survey Response Analysis
-* ==**Suggestion** Use bar charts or pie charts to visualize the distribution of responses based on key pain points, desired features, and interest levels in using ASI tokens for payments.==
+<!-- * ==**Suggestion** Use bar charts or pie charts to visualize the distribution of responses based on key pain points, desired features, and interest levels in using ASI tokens for payments.== -->
 
 ### Why We Need User Input:
 
