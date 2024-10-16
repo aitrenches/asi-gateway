@@ -47,6 +47,7 @@ nav:
   - Feasibility Study: 'FEASIBILITY-STUDY.md'
   - Architecture: 'ARCHITECTURE.md'
   - Roadmap: 'ROADMAP.md'
+  - Landing Page: 'LANDING-PAGE.md'
 
 plugins:
   - social
