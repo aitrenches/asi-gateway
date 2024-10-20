@@ -48,6 +48,7 @@ nav:
   - Architecture: 'ARCHITECTURE.md'
   - Roadmap: 'ROADMAP.md'
   - Landing Page: 'LANDING-PAGE.md'
+  - Prototype: 'PROROTYPE.md'
 
 plugins:
   - social
