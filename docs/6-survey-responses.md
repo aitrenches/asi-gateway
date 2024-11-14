@@ -1,5 +1,4 @@
 # 6. Survey Response Analysis
-* ==**Suggestion** Use bar charts or pie charts to visualize the distribution of responses based on key pain points, desired features, and interest levels in using ASI tokens for payments.==
 
 ### Why We’re Seeking User Input:
 
@@ -7,7 +6,7 @@ Gaining insights from our users is key to making this project as effective and r
 
 To achieve this, we’ve crafted a short survey that invites you to share your experiences and thoughts. Your feedback will have a direct impact on the design and functionality of this payment gateway.
 
-**Survey Link**: [Insert Survey Link Here]
+Survey Link: [\[Here\]](https://docs.google.com/forms/d/e/1FAIpQLScebuUV6YiwbeWJnlvWim6Y_lZlcu_EsyS-cKieK0j9ZvIinw/viewform?pli=1&pli=1)
 
 The survey asks about:
 
@@ -34,7 +33,8 @@ From your responses, we aim to:
 
 The survey will be open for four weeks. Afterward, we’ll analyze the feedback and share a summary of our findings with the community.
 
+Response:
 
-
+![Responses](research_images/survey-responses.png)
 
 
